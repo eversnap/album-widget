@@ -2,6 +2,10 @@
 
 Drop this script on your page and it will build you a beautiful widget that displays the photos of your Eversnap Album.
 
+## Demo
+
+To get some more information and see the toastmessage plugin in action, just click [here](http://eversnap.github.io/album-widget/)
+
 ## How do I use it?
 
 Everwhere you want a widget to be placed, add the following markup:
