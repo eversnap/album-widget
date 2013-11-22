@@ -10,7 +10,7 @@ Everwhere you want a widget to be placed, add the following markup:
 <a class="eversnap-album" href="https://www.eversnapapp.com/album/{{ALBUM_ID}}"></div>
 ```
 
-Then include the javascript file somewhere after you've include jQuery:
+Then include the javascript code somewhere after:
 
 ```html
 <script type="text/javascript">
