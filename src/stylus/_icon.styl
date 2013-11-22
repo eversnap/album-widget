@@ -1,0 +1,21 @@
+@css {
+	@import 'http://i.icomoon.io/public/temp/6f1c557e04/UntitledProject1/style.css'
+}
+.icon
+	font-family: 'eversnap';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+
+icon(letter, type="before")
+	if type
+		&:{type}
+			@extends .icon
+			content: letter
+	else
+		@extends .icon
+		content: letter
