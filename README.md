@@ -11,7 +11,7 @@ To get some more information and see the toastmessage plugin in action, just cli
 Everwhere you want a widget to be placed, add the following markup:
 
 ```html
-<a class="eversnap-album" href="https://www.eversnapapp.com/album/{{ALBUM_ID}}"></div>
+<a class="eversnap-album" href="https://www.eversnapapp.com/album/{{ALBUM_ID}}"></a>
 ```
 
 Then include the javascript code somewhere after:
